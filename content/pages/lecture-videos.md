@@ -1,0 +1,42 @@
+---
+content_type: page
+description: This page includes lecture videos.
+draft: false
+title: Lecture Videos
+uid: d647ba59-4a9e-4105-ae01-4f48f6963749
+---
+### Note: All of the links on this page lead to an external third-party site and content which has terms and conditions, including license rights, that are excluded from the OCW Creative Commons license (CC BY-NC-SA).
+
+## Part I: Fundamentals of TEOR
+
+- [Lecture 1: Course Overview / Clinical Problems for TEOR; The Toolbox by Prof. Spector](https://www.dropbox.com/scl/fo/o9ixw4cbhdrkc1fa484ys/ACq6DuYu5hFv7ao45rY8K1U/Lecture%20Recordings?dl=0&preview=24-9-5+2.787%2C+HST.535+Background+and+Introduction+%28Spector%29+Zoom.mp4&rlkey=u2rimyl1s7xeom33sli4jmryz&subfolder_nav_tracking=1) (external)
+- [Lecture 2: Organ Structure and Unit Cell Processes by Prof. Spector](https://www.dropbox.com/scl/fo/o9ixw4cbhdrkc1fa484ys/ACq6DuYu5hFv7ao45rY8K1U/Lecture%20Recordings?dl=0&preview=24-9-10+2.787%2C+HST.535+Organ+Structure+and+UCPs+%28Spector%29+LWC.mp4&rlkey=u2rimyl1s7xeom33sli4jmryz&subfolder_nav_tracking=1) (external)
+- [Lecture 3: Unit Cell Processes Underlying TEOR; Modeling the Problem by Prof. Spector](https://www.dropbox.com/scl/fo/o9ixw4cbhdrkc1fa484ys/ACq6DuYu5hFv7ao45rY8K1U/Lecture%20Recordings?dl=0&preview=24-9-12+2.787%2C+HST.535++UCPs+in+TEOR+%28Spector%29+LWC.mp4&rlkey=u2rimyl1s7xeom33sli4jmryz&subfolder_nav_tracking=1) (external)
+- [Lecture 4: UCPs in Scar/Fibrosis; SMA-Expressing Connective Tissue Cells by Prof. Spector](https://www.dropbox.com/scl/fo/o9ixw4cbhdrkc1fa484ys/ACq6DuYu5hFv7ao45rY8K1U/Lecture%20Recordings?dl=0&preview=24-9-17+2.787%2C+HST.535++UCPs+in+Scar+%28Spector%29+LWC.mp4&rlkey=u2rimyl1s7xeom33sli4jmryz&subfolder_nav_tracking=1) (external)
+- [Lecture 5: Epithelial-Mesenchymal Transition I: Stimulants and Antagonists by Dr. Friehs](https://www.dropbox.com/scl/fo/o9ixw4cbhdrkc1fa484ys/ACq6DuYu5hFv7ao45rY8K1U/Lecture%20Recordings?dl=0&preview=24-9-19+2.787%2C+HST.535++EMT+in+Health+and+Disease%3B+The+Heart+%28Friehs%29+LWC.mp4&rlkey=u2rimyl1s7xeom33sli4jmryz&subfolder_nav_tracking=1) (external)
+- [Lecture 6: Collagen Structure, Function, and Therapeutic Modification by Ms. Knowles](https://www.dropbox.com/scl/fo/o9ixw4cbhdrkc1fa484ys/ACq6DuYu5hFv7ao45rY8K1U/Lecture%20Recordings?dl=0&preview=24-9-24+2.787%2C+HST.535++Collagen+Structure%2C+Function%2C+and+Therapeutic+Modification+%28Knowles%29+LWC.MP4&rlkey=u2rimyl1s7xeom33sli4jmryz&subfolder_nav_tracking=1) (external)
+- [Lecture 7: Mitochondrial Dysfunction, Transfer, and Transplantation by Prof. McCully](https://www.dropbox.com/scl/fo/o9ixw4cbhdrkc1fa484ys/ACq6DuYu5hFv7ao45rY8K1U/Lecture%20Recordings?dl=0&preview=24-9-26+2.787%2C+HST.535++Mitochondrial+Dysfunction+and+Transplantation+%28McCully%29+LWC.mp4&rlkey=u2rimyl1s7xeom33sli4jmryz&subfolder_nav_tracking=1) (external)
+- [Lecture 8: EndMT Myofibroblasts in Healing and Regeneration by Dr. Shu; Part I Review by Prof. Spector](https://www.dropbox.com/scl/fo/o9ixw4cbhdrkc1fa484ys/ACq6DuYu5hFv7ao45rY8K1U/Lecture%20Recordings?dl=0&preview=24-10-1+2.787%2C+HST.535++Part+I+Review+%28Spector%29+LWC.mp4&rlkey=u2rimyl1s7xeom33sli4jmryz&subfolder_nav_tracking=1) (external)
+
+## Part II: The Tools for TEOR; What They Are and How to Use Them
+
+- [Lecture 10: Quiz 1 Review; UCPs in Wound Healing by Prof. Spector](https://www.dropbox.com/scl/fo/o9ixw4cbhdrkc1fa484ys/ACq6DuYu5hFv7ao45rY8K1U/Lecture%20Recordings?dl=0&preview=24-10-8+2.787%2C+HST.535+Quiz+Review++%28Spector%29+LWC.mp4&rlkey=u2rimyl1s7xeom33sli4jmryz&subfolder_nav_tracking=1) (external)
+- [Lecture 11: The Tools for TEOR: Scaffolds by Prof. Spector](https://www.dropbox.com/scl/fo/o9ixw4cbhdrkc1fa484ys/ACq6DuYu5hFv7ao45rY8K1U/Lecture%20Recordings?dl=0&preview=24-10-10+2.787%2C+HST.535+Tools+for+TEOR%3B+Scaffolds++%28Spector%29+LWC.mp4&rlkey=u2rimyl1s7xeom33sli4jmryz&subfolder_nav_tracking=1) (external)
+- [Lecture 12: Introduction to Organ Regeneration by Prof. Yannas](https://www.dropbox.com/scl/fo/o9ixw4cbhdrkc1fa484ys/ACq6DuYu5hFv7ao45rY8K1U/Lecture%20Recordings?dl=0&preview=24-10-17+2.787%2C+HST.535+Introduction+to+Organ+Regeneration+%28Yannas%29+Zoom.mp4&rlkey=u2rimyl1s7xeom33sli4jmryz&subfolder_nav_tracking=1) (external)
+- Lecture 13: Injury-Tissue Triad by Prof. Yannas (not available)
+- [Lecture 14: Scar Formation-Contraction Blockade by Prof. Yannas](https://www.dropbox.com/scl/fo/o9ixw4cbhdrkc1fa484ys/ACq6DuYu5hFv7ao45rY8K1U/Lecture%20Recordings?dl=0&preview=24-10-24+2.787%2C+HST.535+Scar+Formation-Contraction+Blockade+%28Yannas%29+Zoom.mp4&rlkey=u2rimyl1s7xeom33sli4jmryz&subfolder_nav_tracking=1) (external)
+- [Lecture 15: Skin and Peripheral Nerve Regeneration by Prof. Spector](https://www.dropbox.com/scl/fo/o9ixw4cbhdrkc1fa484ys/ACq6DuYu5hFv7ao45rY8K1U/Lecture%20Recordings?dl=0&preview=24-10-29+2.787%2C+HST.535+Review+of+Collagen-GAG+Implants+in+Skin+and+Peripheral+Nerve+%28Spector%29+LWC.MP4&rlkey=u2rimyl1s7xeom33sli4jmryz&subfolder_nav_tracking=1) (external)
+- [Lecture 16: Review of Biomaterials as the Tools for TEOR by Prof. Spector](https://www.dropbox.com/scl/fo/o9ixw4cbhdrkc1fa484ys/ACq6DuYu5hFv7ao45rY8K1U/Lecture%20Recordings?dl=0&preview=24-10-31+2.787%2C+HST.535+Review+of+Biomaterials+as+the+Tools+for+TEOR+%28Spector%29+LWC.mp4&rlkey=u2rimyl1s7xeom33sli4jmryz&subfolder_nav_tracking=1) (external)
+
+## Part III: Practice/Translation of TEOR: Clinical Applications
+
+- [Lecture 18: Quiz 2 Review by Prof. Spector](https://www.dropbox.com/scl/fo/o9ixw4cbhdrkc1fa484ys/ACq6DuYu5hFv7ao45rY8K1U/Lecture%20Recordings?dl=0&preview=24-11-7+2.787%2C+HST.535+Review+of+Quiz+%232+Solutions+%28Spector%29+LWC.mp4&rlkey=u2rimyl1s7xeom33sli4jmryz&subfolder_nav_tracking=1) (external)
+- [Lecture 19: Combinatorial Tools: Regulators and Genes in Biomaterials by Prof. Spector](https://www.dropbox.com/scl/fo/o9ixw4cbhdrkc1fa484ys/ACq6DuYu5hFv7ao45rY8K1U/Lecture%20Recordings?dl=0&preview=24-11-12+2.787%2C+HST.535+Scaffolds%2C+Cells%2C+and+Reguators+%28Spector%29+LWC.mp4&rlkey=u2rimyl1s7xeom33sli4jmryz&subfolder_nav_tracking=1) (external)
+- [Lecture 20: TEOR for Orthopedic Applications: Bone by Prof. Spector](https://www.dropbox.com/scl/fo/o9ixw4cbhdrkc1fa484ys/ACq6DuYu5hFv7ao45rY8K1U/Lecture%20Recordings?dl=0&preview=24-11-14+2.787%2C+HST.535+SMA-Expressing+Musculoskeletal+Cells%3B+TEOR+of+Bone++%28Spector%29+LWC.mp4&rlkey=u2rimyl1s7xeom33sli4jmryz&subfolder_nav_tracking=1) (external)
+- [Lecture 21: TEOR Applied to Teeth and Cartilages by Prof. Spector](https://www.dropbox.com/scl/fo/o9ixw4cbhdrkc1fa484ys/ACq6DuYu5hFv7ao45rY8K1U/Lecture%20Recordings?dl=0&preview=24-11-19+2.787%2C+HST.535+TEOR+of+Teeth%3B+TEOR+of+Cartilage+%28Spector%29+LWC.mp4&rlkey=u2rimyl1s7xeom33sli4jmryz&subfolder_nav_tracking=1) (external)
+- [Lecture 22: Central Nervous System: Spinal Cord by Prof. Spector](https://www.dropbox.com/scl/fo/o9ixw4cbhdrkc1fa484ys/ACq6DuYu5hFv7ao45rY8K1U/Lecture%20Recordings?dl=0&preview=24-11-21+2.787%2C+HST.535+Central+Nervous+System+Spinal+Cord+%28Spector%29+LWC.mp4&rlkey=u2rimyl1s7xeom33sli4jmryz&subfolder_nav_tracking=1) (external)
+- [Lecture 23: Central Nervous System: Brain by Dr. Love](https://www.dropbox.com/scl/fo/o9ixw4cbhdrkc1fa484ys/ACq6DuYu5hFv7ao45rY8K1U/Lecture%20Recordings?dl=0&preview=24-11-26+2.787%2C+HST.535+Central+Nervous+System+Brain+%28Love%29+LWC.mp4&rlkey=u2rimyl1s7xeom33sli4jmryz&subfolder_nav_tracking=1) (external)
+- [Lecture 24: Central Nervous System: Retina by Dr. Dromel](https://www.dropbox.com/scl/fo/o9ixw4cbhdrkc1fa484ys/ACq6DuYu5hFv7ao45rY8K1U/Lecture%20Recordings?dl=0&preview=24-12-3+2.787%2C+HST.535+Central+Nervous+System+Retina+%28Dromel%29+Zoom.mp4&rlkey=u2rimyl1s7xeom33sli4jmryz&subfolder_nav_tracking=1) (external)
+- [Lecture 25: Cardiac Tissue Engineering and Atrioventricular Block by Ms. Reddie](https://www.dropbox.com/scl/fo/o9ixw4cbhdrkc1fa484ys/ACq6DuYu5hFv7ao45rY8K1U/Lecture%20Recordings?dl=0&preview=24-12-5+2.787%2C+HST.535+Cardiac+Tiss+Engr%3B+Atrioventricular+Block+%28Reddie%29+LWC.mp4&rlkey=u2rimyl1s7xeom33sli4jmryz&subfolder_nav_tracking=1) (external)
+
+### Note: All of the links on this page lead to an external third-party site and content which has terms and conditions, including license rights, that are excluded from the OCW Creative Commons license (CC BY-NC-SA).
