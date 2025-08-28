@@ -73,9 +73,10 @@
   "learning_resource_types": [
     "Lecture Videos",
     "Lecture Notes",
-    "Online Textbook",
+    "Open Textbooks",
     "Readings"
   ],
   "site_uid": "e70561b0-8216-4790-a764-df1d9ca77f5a",
-  "site_short_id": "2.787j-fall-2024"
+  "site_short_id": "2.787j-fall-2024",
+  "site_url_path": "courses/2-787j-tissue-engineering-and-organ-regeneration-fall-2024"
 }

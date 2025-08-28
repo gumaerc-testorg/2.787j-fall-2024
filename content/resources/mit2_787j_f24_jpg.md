@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/tissue-engineering-and-organ-regeneration/mit2_787j_f24.jpg
+file: /ol-ocw-studio-app/courses/2-787j-tissue-engineering-and-organ-regeneration-fall-2024/mit2_787j_f24.jpg
 file_size: 199467
 file_type: image/jpeg
 image_metadata:
