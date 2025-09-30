@@ -7,42 +7,42 @@ uid: 7b0c7ec9-a8af-43ce-991e-902ba5514e61
 ---
 ### Note: All of the links on this page lead to an external third-party site and content which has terms and conditions, including license rights, that are excluded from the OCW Creative Commons license (CC BY-NC-SA).
 
-[Chapter 1: Course Overview / Clinical Problems for TEOR Solution; What's in the Toolbox](https://www.dropbox.com/scl/fo/o9ixw4cbhdrkc1fa484ys/AGsqRQ_4krwOYwxpM0LcOEM/Chapters/Chapter%201%20Course%20Overview-Clinical%20Problems%20for%20TEOR%20Solution%3B%20What's%20in%20the%20Toobox?dl=0&rlkey=u2rimyl1s7xeom33sli4jmryz&subfolder_nav_tracking=1) (external)
+{{% resource_link "30c364c6-799c-409f-8675-12e6bb829233" "Chapter 1: Course Overview / Clinical Problems for TEOR Solution; What's in the Toolbox" %}} (external)
 
 ## Part I: Fundamentals of TEOR
 
-[Chapter 2: Tissue-Organ Structures](https://www.dropbox.com/scl/fo/o9ixw4cbhdrkc1fa484ys/AJxYpqgjWEThRAXYSVJ7gSw/Chapters/Chapter%202%20Tissue-Organ%20Structures?dl=0&rlkey=u2rimyl1s7xeom33sli4jmryz) (external)
+{{% resource_link "f900410f-1ec3-4eaf-ae01-03de5d00b193" "Chapter 2: Tissue-Organ Structures" %}} (external)
 
-[Chapter 3: Unit Cell Processes Directing TEOR](https://www.dropbox.com/scl/fo/o9ixw4cbhdrkc1fa484ys/ABQws45URC5cMgHXvSX2ZzM/Chapters/Chapter%203%20Unit%20Cell%20Processes?dl=0&rlkey=u2rimyl1s7xeom33sli4jmryz&subfolder_nav_tracking=1) (external)
+{{% resource_link "57fa240e-635e-46fa-b41c-40e339a8b3f6" "Chapter 3: Unit Cell Processes Directing TEOR" %}} (external)
 
-[Chapter 4: Organ Repair vs Regeneration](https://www.dropbox.com/scl/fo/o9ixw4cbhdrkc1fa484ys/ACLikAArHiQmnbe2XjiO8jg/Chapters/Chapter%204%20Organ%20Repair%20vs%20Regeneration?dl=0&rlkey=u2rimyl1s7xeom33sli4jmryz&subfolder_nav_tracking=1) (external)
+{{% resource_link "67783898-1e54-4b85-8ca6-a9ef71773164" "Chapter 4: Organ Repair vs Regeneration" %}} (external)
 
 ## Part II: The Tools for TEOR; What They Are and How to Use Them
 
-[Chapter 5: Biomaterial Scaffolds](https://www.dropbox.com/scl/fo/o9ixw4cbhdrkc1fa484ys/ANrViiF_OxwYCEKSK_hQrVA/Chapters/Chapter%205%20Biomaterial%20Scaffolds?dl=0&rlkey=u2rimyl1s7xeom33sli4jmryz&subfolder_nav_tracking=1) (external)
+{{% resource_link "478f47fc-7d38-42a7-9024-a76a59188b11" "Chapter 5: Biomaterial Scaffolds" %}} (external)
 
-[Chapter 6: Endogenous and Exogenous Cells for TEOR](https://www.dropbox.com/scl/fo/o9ixw4cbhdrkc1fa484ys/AARkyXWLJMXyRB_hpKKi6Jw/Chapters/Chapter%206%20Endogenous%20and%20Exogenous%20Cells%20and%20Mitochondria%20for%20TEOR?dl=0&rlkey=u2rimyl1s7xeom33sli4jmryz&subfolder_nav_tracking=1) (external)
+{{% resource_link "b53b2ad7-eb44-475c-bb40-d6ebb12cb65f" "Chapter 6: Endogenous and Exogenous Cells for TEOR" %}} (external)
 
-[Chapter 7: Chemical and Physical Regulators of Cell Function](https://www.dropbox.com/scl/fo/o9ixw4cbhdrkc1fa484ys/APGZg55FYxRzIa0YAUCWHqo/Chapters/Chapter%207%20Regulators%20of%20Cell%20Function?dl=0&rlkey=u2rimyl1s7xeom33sli4jmryz&subfolder_nav_tracking=1) (external)
+{{% resource_link "eebce483-f120-41db-ae89-71aec8462342" "Chapter 7: Chemical and Physical Regulators of Cell Function" %}} (external)
 
 ## Part III: Practice/Translation of TEOR: Clinical Applications
 
-[Chapter 8: Skin](https://www.dropbox.com/scl/fo/o9ixw4cbhdrkc1fa484ys/ANdftVAJCirUPC9I8kiR6BU/Chapters/Chapter%208%20Skin%3A%20Development%20of%20Dermal%20Regeneration%20Template?dl=0&rlkey=u2rimyl1s7xeom33sli4jmryz&subfolder_nav_tracking=1) (external)
+{{% resource_link "75bf0560-bcec-4373-8975-fa42ccf4ce5d" "Chapter 8: Skin" %}} (external)
 
-[Chapter 9: Peripheral Nerve Regeneration](https://www.dropbox.com/scl/fo/o9ixw4cbhdrkc1fa484ys/AC0eFq0V8TMB_Mzb6ynJKts/Chapters/Chapter%209%20Peripheral%20Nerve%3A%20%20Collagen%20Tubes%20and%20DRT?dl=0&rlkey=u2rimyl1s7xeom33sli4jmryz&subfolder_nav_tracking=1) (external)
+{{% resource_link "eeecad68-480f-46e1-9644-3315dd516199" "Chapter 9: Peripheral Nerve Regeneration" %}} (external)
 
-[Chapter 10: Musculoskeletal: Bone and Cartilage](https://www.dropbox.com/scl/fo/o9ixw4cbhdrkc1fa484ys/AGe7UHwOFy1FYpSBJcw5qIE/Chapters/Chapter%2010%20Musculoskeletal%20Tissues%3A%20Bone%20and%20Cartilage?dl=0&rlkey=u2rimyl1s7xeom33sli4jmryz&subfolder_nav_tracking=1) (external)
+{{% resource_link "fbbb58ab-9948-4857-bbf2-8685a0a9a694" "Chapter 10: Musculoskeletal: Bone and Cartilage" %}} (external)
 
-[Chapter 11: Dental Tissues](https://www.dropbox.com/scl/fo/o9ixw4cbhdrkc1fa484ys/AGrsIxtXTUp0x8I3AgencZM/Chapters/Chapter%2011%20Dental%20Tissues%3A%20TEOR%20of%20Teeth?dl=0&rlkey=u2rimyl1s7xeom33sli4jmryz&subfolder_nav_tracking=1) (external)
+{{% resource_link "cd98035b-a06b-4fb2-a7a5-4aa58edb5614" "Chapter 11: Dental Tissues" %}} (external)
 
-[Chapter 12: Heart](https://www.dropbox.com/scl/fo/o9ixw4cbhdrkc1fa484ys/ADGmsfBNqhizSBCA-5E7Fuk/Chapters/Chapter%2012%3A%20Heart?dl=0&rlkey=u2rimyl1s7xeom33sli4jmryz&subfolder_nav_tracking=1) (external)
+{{% resource_link "024dd77d-3131-4521-8339-6bc02d85972b" "Chapter 12: Heart" %}} (external)
 
-[Chapter 13: Brain](https://www.dropbox.com/scl/fo/o9ixw4cbhdrkc1fa484ys/ALSxtQxKhPzQ0xDn6HnwfUA/Chapters/Chapter%2013%3A%20Brain?dl=0&rlkey=u2rimyl1s7xeom33sli4jmryz&subfolder_nav_tracking=1) (external)
+{{% resource_link "bf29587f-8c35-4500-9dea-c8ae0d160214" "Chapter 13: Brain" %}} (external)
 
-[Chapter 14: Spinal Cord](https://www.dropbox.com/scl/fo/o9ixw4cbhdrkc1fa484ys/AGvI2g3lp_sMTgY7Q4mQptk/Chapters/Chapter%2014%20Spinal%20Cord?dl=0&rlkey=u2rimyl1s7xeom33sli4jmryz&subfolder_nav_tracking=1) (external)
+{{% resource_link "97a8d399-da9c-4f96-8af9-c45f3628b69c" "Chapter 14: Spinal Cord" %}} (external)
 
-[Chapter 15: Eye](https://www.dropbox.com/scl/fo/o9ixw4cbhdrkc1fa484ys/AE9QOMzbta1fO-UFrqCIZPA/Chapters/Chapter%2015%3A%20Eye?dl=0&rlkey=u2rimyl1s7xeom33sli4jmryz&subfolder_nav_tracking=1) (external)
+{{% resource_link "8ca0ab05-797c-45d4-84b2-73c9cb8dcccb" "Chapter 15: Eye" %}} (external)
 
-[Summary](https://www.dropbox.com/scl/fo/o9ixw4cbhdrkc1fa484ys/AFKoudIFc4x_2-23vfltcbA/Chapters/SUMMARY%20of%20the%20Subject?dl=0&preview=24-12-5_SUMMARY.pdf&rlkey=u2rimyl1s7xeom33sli4jmryz&subfolder_nav_tracking=1) (external)
+{{% resource_link "102f0963-b2e0-4692-b17b-9310b117e577" "Summary" %}} (external)
 
 ### Note: All of the links on this page lead to an external third-party site and content which has terms and conditions, including license rights, that are excluded from the OCW Creative Commons license (CC BY-NC-SA).
