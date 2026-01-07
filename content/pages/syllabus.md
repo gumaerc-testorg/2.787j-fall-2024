@@ -15,26 +15,26 @@ Lectures: 2 sessions/week, 1.5 hours/session
 Biology (GIR) ![](/images/educator/icon-question-gir.png)              
 One of the following courses:
 
-- {{% resource_link "077ee322-2d13-4acc-b504-15b98be5b626" "*7.012 Introductory Biology*" %}}
-- {{% resource_link "1531d135-e735-409d-8376-252b9f0efca8" "*7.013 Introductory Biology*" %}}
-- {{% resource_link "e8df3248-9c24-4a29-9dc7-cc251bb103a3" "*7.014 Introductory Biology*" %}}
+- [*7.012 Introductory Biology*](https://ocw.mit.edu/courses/7-012-introduction-to-biology-fall-2004/)
+- [*7.013 Introductory Biology*](https://ocw.mit.edu/courses/7-013-introductory-biology-spring-2018/)
+- [*7.014 Introductory Biology*](https://ocw.mit.edu/courses/7-014-introductory-biology-spring-2005/)
 - *7.015 Introductory Biology*
-- {{% resource_link "e0df3ea5-05fe-4f28-8e28-5bc9ebde9a5d" "*7.016 Introductory Biology*" %}}
+- [*7.016 Introductory Biology*](https://ocw.mit.edu/courses/7-016-introductory-biology-fall-2018/)
 
 Chemistry (GIR) ![](/images/educator/icon-question-gir.png)              
 One of the following courses:
 
-- {{% resource_link "10b082ba-f3d3-4fd9-9558-7354cb08f8a1" "*3.091 Introduction to Solid-State Chemistry*" %}}
-- {{% resource_link "27cdb014-8e3a-4a2c-9bbe-fdee5e3f8938" "*5.111 Principles of Chemical Science*" %}}
-- {{% resource_link "9260fe01-dbcf-43ab-a797-20a72f7c53bf" "*5.112 Principles of Chemical Science*" %}}
+- [*3.091 Introduction to Solid-State Chemistry*](https://ocw.mit.edu/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/)
+- [*5.111 Principles of Chemical Science*](https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/)
+- [*5.112 Principles of Chemical Science*](https://ocw.mit.edu/courses/5-112-principles-of-chemical-science-fall-2005/)
 
 Physics I (GIR) ![](/images/educator/icon-question-gir.png)              
 One of the following courses:
 
-- {{% resource_link "66ab58e0-9233-49c7-a5c4-163ba52a98e4" "*8.01 Physics I*" %}}
+- [*8.01 Physics I*](https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/)
 - *8.011 Physics I*
-- {{% resource_link "3a33bedd-c641-40f1-93e2-559d426e2728" "*8.012 Physics I*" %}}
-- {{% resource_link "27e5d881-1bfe-4923-83a2-61abd030fe6a" "*8.01L Physics I*" %}}
+- [*8.012 Physics I*](https://ocw.mit.edu/courses/8-012-physics-i-classical-mechanics-fall-2008/)
+- [*8.01L Physics I*](https://ocw.mit.edu/courses/8-01l-physics-i-classical-mechanics-fall-2005/)
 
 ## Course Description
 
